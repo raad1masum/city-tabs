@@ -3,7 +3,7 @@ A custom city-themed new tab for chromium-based browsers.
 
 ## Usage
 [Install Chrome Extension](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia?hl=en)<br>
-Set URL to `https://raad1masum.github.io/city-tabs/`
+Set URL to `http://city-tabs.raadwan.com/`
 
 ## New Tab
 ![1](./assets/1.png)
