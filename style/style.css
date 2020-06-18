@@ -3,7 +3,7 @@
 html,
 body {
     background-color: black;
-    font-family: 'Major Mono Display, monospace';
+    font-family: 'Major Mono Display', monospace;
 }
 
 h1 {
