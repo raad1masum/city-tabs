@@ -25,6 +25,8 @@ body {
     height: 50px;
     margin: 0 auto;
     margin-top: 10vh;
+    background-color: transparent;
+    border: none;
 }
 
 footer {
