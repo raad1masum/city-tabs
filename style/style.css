@@ -6,7 +6,7 @@ body {
     font-family: 'Major Mono Display', monospace;
 }
 
-h1 {
+.time {
     color: white;
     text-align: center;
 }
