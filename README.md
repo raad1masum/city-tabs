@@ -3,7 +3,7 @@ Cool city new tabs for chromium.
 
 ## Usage
 [Install Chrome Extension](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia?hl=en)<br>
-Set URL to `https://raadwan.com/city-tabs`
+Set URL to `https://raad1masum.github.io/city-tabs/`
 
 ## New Tab
 ![1](./assets/1.png)
