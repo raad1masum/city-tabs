@@ -30,12 +30,12 @@ a:hover {
     text-decoration: underline;
 }
 
-::-moz-selection { /* Code for Firefox */
+::-moz-selection {
     color: red;
     background: yellow;
   }
   
-  ::selection {
+::selection {
     color: red;
     background: yellow;
-  }
+}
