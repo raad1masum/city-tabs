@@ -1,9 +1,8 @@
 function changeBackground() {
-    var backgroundsImages = ["./img/1.png", "./img/2.jpg", "./img/3.jpg", "./img/4.jpg", "./img/5.jpg",]
+    var backgroundsImages = ["url('./img/1.png')", "url('./img/2.jpg')", "url('./img/3.jpg')", "url('./img/4.jpg')", "url('./img/5.jpeg')"]
 
-    document.getElementById('body').style.background = "url('./img/1.png')";
+    document.getElementById('body').style.backgroundImage = backgroundsImages[Math.floor(Math.random() * 11) + 1];
 }
-changeBackground()
 
 function displayTime() {
     var date = new Date()
