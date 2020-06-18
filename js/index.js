@@ -6,3 +6,4 @@ function displayTime() {
     
     document.getElementById("time").innerHTML = time;
 }
+displayTime()
