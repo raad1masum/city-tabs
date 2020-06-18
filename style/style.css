@@ -2,8 +2,11 @@
 
 html,
 body {
-    background-color: black;
     font-family: 'Major Mono Display', monospace;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
 }
 
 .time {
@@ -27,6 +30,7 @@ body {
     margin-top: 5vh;
     background-color: transparent;
     border: none;
+    outline: none;
 }
 
 .change-btn svg {
