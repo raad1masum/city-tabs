@@ -29,6 +29,10 @@ body {
     border: none;
 }
 
+.change-btn svg {
+    margin-left: -103px;
+}
+
 footer {
     margin-top: 50vh;
     text-align: center;
