@@ -1,5 +1,5 @@
 # city-tabs ![build](https://api.travis-ci.com/raad1masum/personal-site.svg?branch=master&status=passed)
-Cool city new tabs for chromium.
+A custom new tab for chromium-based browsers.
 
 ## Usage
 [Install Chrome Extension](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia?hl=en)<br>
